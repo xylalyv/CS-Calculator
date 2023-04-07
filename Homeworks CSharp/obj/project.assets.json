@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CSharp\\Homeworks CSharp\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Simple Calculator\\Homeworks CSharp\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\CSharp\\Homeworks CSharp\\Calculator.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Simple Calculator\\Homeworks CSharp\\Calculator.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\CSharp\\Homeworks CSharp\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Simple Calculator\\Homeworks CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

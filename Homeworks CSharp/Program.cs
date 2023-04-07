@@ -110,6 +110,7 @@
             while (true)
             {
                 Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Red; 
                 Console.WriteLine(@"
                  ____           
                 |        /\     |
@@ -130,6 +131,7 @@
                 |    |    |__|
                 |____|    |   \
                 ");
+                Console.ResetColor();
                 for (int i = 0; i < menuOptions.Length; i++)
                 {
                     if (i == selectedIndex)
