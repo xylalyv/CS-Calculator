@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\bin\Debug\net6.0\Homeworks CSharp.exe
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\bin\Debug\net6.0\Homeworks CSharp.deps.json
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\bin\Debug\net6.0\Homeworks CSharp.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\bin\Debug\net6.0\Homeworks CSharp.dll
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\bin\Debug\net6.0\Homeworks CSharp.pdb
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\obj\Debug\net6.0\Homeworks CSharp.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\obj\Debug\net6.0\Homeworks CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\obj\Debug\net6.0\Homeworks CSharp.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\obj\Debug\net6.0\Homeworks CSharp.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\obj\Debug\net6.0\Homeworks CSharp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\obj\Debug\net6.0\Homeworks CSharp.dll
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\obj\Debug\net6.0\refint\Homeworks CSharp.dll
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\obj\Debug\net6.0\Homeworks CSharp.pdb
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\obj\Debug\net6.0\Homeworks CSharp.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\CSharp\Homeworks CSharp\obj\Debug\net6.0\ref\Homeworks CSharp.dll
