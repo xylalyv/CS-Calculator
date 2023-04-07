@@ -135,12 +135,12 @@
                     if (i == selectedIndex)
                     {
                         Console.BackgroundColor = ConsoleColor.DarkBlue; 
-                        Console.WriteLine("-->" + menuOptions[i]);
+                        Console.WriteLine($"--> {menuOptions[i]}");
                         Console.ResetColor(); 
                     }
                     else
                     {
-                        Console.WriteLine("  " + menuOptions[i]);
+                        Console.WriteLine($"  {menuOptions[i]}");
                     }
                 }
 
